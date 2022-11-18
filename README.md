@@ -1,4 +1,4 @@
 # Zaki-A-Discord.github.io
 My personal Website...
 
-<href scr="www.google.com">
+<a href="https://www.w3schools.com/">

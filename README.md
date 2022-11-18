@@ -1,4 +1,3 @@
 # Zaki-A-Discord.github.io
-My personal Website...
-
-<a href="https://www.w3schools.com/">
+My personal Website
+<meta http-equiv="refresh" content="0; URL=www.google.com" />

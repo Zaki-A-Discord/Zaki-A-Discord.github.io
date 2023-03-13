@@ -38,27 +38,16 @@
 
 </style>
 
- <a href="./index.html"> <button class="button">Home</button></a>
-  <a href="./Subjects.html"> <button class="button">Subjects</button></a>
-  <a href="./offices.html"> <button class="button">Offices</button></a>
-  <a href="./form.html"> <button class="button">Form</button></a>
-
+ <a href="./index.html"> 		<button class="button">Home		</button></a>
+  <a href="./Subjects.html"> 	<button class="button">Subjects	</button></a>
+  <a href="./offices.html"> 	<button class="button">Offices	</button></a>
+  <a href="./form.html"> 		<button class="button">Form		</button></a>
+  <a href=" #embed				"<button class="button">Join Our Discord</button></a>
 
 
 
 
 </header>
-
-
-
-
-
-
-
-
-
-
-
 
 
 <title> Coastal Academy Decals </title>
@@ -89,19 +78,19 @@
 <img src="https://raw.githubusercontent.com/Zaki-A-Discord/Zaki-A-Discord.github.io/main/Images/Music.JPG" width="240.999" height="190.998" <br>
 <p>Roblox Image Code:11163675389 </p>
 
-<img src="./Images/MT.jpg" width="240.999" height="190.998" <br>
+<img src="https://raw.githubusercontent.com/Zaki-A-Discord/Zaki-A-Discord.github.io/main/Images/MT.JPG" width="240.999" height="190.998" <br>
 <p>Roblox Image Code:11234099275 </p>
 
-<img src="./Images/PE.jpg" width="240.999" height="190.998" <br>
+<img src="https://raw.githubusercontent.com/Zaki-A-Discord/Zaki-A-Discord.github.io/main/Images/PE.JPG" width="240.999" height="190.998" <br>
 <p>Roblox Image Code:11163676618 </p>
 
-<img src="./Images/PSE.RE.jpg" width="240.999" height="190.998" <br>
+<img src="https://raw.githubusercontent.com/Zaki-A-Discord/Zaki-A-Discord.github.io/main/Images/PSE.RE.JPG" width="240.999" height="190.998" <br>
 <p>Roblox Image Code:11163678040 </p>
 
-<img src="./Images/Science.jpg" width="240.999" height="190.998" <br>
+<img src="https://raw.githubusercontent.com/Zaki-A-Discord/Zaki-A-Discord.github.io/main/Images/Science.JPG" width="240.999" height="190.998" <br>
 <p>Roblox Image Code:11163678868 </p>
 
-<img src="./Images/Spanish.jpg" width="240.999" height="190.998" <br>
+<img src="https://raw.githubusercontent.com/Zaki-A-Discord/Zaki-A-Discord.github.io/main/Images/Spanish.JPG" width="240.999" height="190.998" <br>
 <p>Roblox Image Code:11163679534 </p>
 
 
@@ -125,6 +114,12 @@
   <a href="./form.html"> <button class="button">Form</button></a>
 
 
+<br> <br>
+<div id=embed>
+
+<iframe src="https://discord.com/widget?id=924806641055047751&theme=dark" width="700" height="350" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+</div>
 
 
 
